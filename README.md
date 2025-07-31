@@ -8,6 +8,7 @@ This project is a command-line application that can generate both **deterministi
 - **Random Password Generation**: Random passwords can be created.
 - **Character Pools**: Includes uppercase letters, digits, and special characters.
 - **HMAC-based deterministic password generation**.
+- **Clipboard Support**: Optionally copy generated password to the clipboard.
 
 
 ## Installation
